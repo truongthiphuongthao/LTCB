@@ -1,0 +1,12 @@
+DE:
+Bai 1: Viet chuong trinh tim phan tu có gia tri nho nhat va lon nhat trong mang
+Bai 2: Viet chuong trinh tinh tong cac phan tu co gia tri le trong mang
+Bai 3: Cho biet phan tu x xuat hien bao nhieu lan trong mang, voi x do nguoid ung nhap vao
+Bai 4: Hien thi cac phan tu co gia tri chia het cho 3 hoac cho 5
+Bai 5: Cho biet mang co bao nhieu phan tu nho hon 0
+Bai 5: In ra vi tri co gia tri k trong mang, vi tri nao khong co gia tri k, thi in ra dau _
+Bai 6: Liet ke so nguyen to 
+Bai 7: Sap xep mang tang dan va giam dan
+Bai 8: Tim so lon thu hai trong mang
+Bai 9: Them phan tu trong mang
+Bai 10: Xoa phan tu trong mang
